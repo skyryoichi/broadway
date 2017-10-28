@@ -5,7 +5,7 @@ body {
 
 .home {
   color: white;
-  background-image: url("/Users/unten/DevProject/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 .home h1 {
   font-size: 70px;
@@ -40,7 +40,7 @@ body {
 .work h4{
   font-size: 23px;
   font-weight: bold;
-  background-image: url("/Users/unten/DevProject/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   color: white;
 }
 
